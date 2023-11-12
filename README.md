@@ -1,6 +1,6 @@
 # htmlodev1
 Kodluyoruz Eğitimi HTML Ödev 1. 
-PS:12.11 Tarihinde ödevimi yüklerken hata yaptığımdan dolayı silip tekrar repo oluşturmak zorunda kaldım sıralama ondan kaynaklı farklı gözükebilir(bilginize:))
+PS:12.11 Tarihinde odevimi yüklerken hata yaptığımdan dolayı silip tekrar repo oluşturmak zorunda kaldım sıralama ondan kaynaklı farklı gözükebilir(bilginize:))
 <h1>Busra Agirbas</h1>
 <!--başlık oluşturdum-->
 <h2>Hakkımda:</h2>
