@@ -10,5 +10,5 @@ PS:12.11 Tarihinde odevimi yüklerken hata yaptığımdan dolayı silip tekrar r
 <h2>Sevdiğim Diziler</h2>
 <h3>Leyla ile Mecnun</h3>
 <!--yine paragrafta açıklamamı yaptım-->
-<p>Leyla ile Mecnun: Eflatun Film imzalı, 2011-2013 yılları arasında TRT 1'de yayınlanan ve 2021-2023 yılları arasında dijital içerik platformu Exxen'de yayınlanan absürt komedi türündeki Türk yapımı televizyon ve internet dizisidir.</p>
+<p>Leyla ile Mecnun: Eflatun Film imzalı, 2011-2013 yılları arasında TRT 1'de yayınlanan ve 2021-2023 yılları arasında dijital içerik platformu Exxen'de yayınlanan absürt komedi türündeki Türk yapımı televizyon ve internet dizisidir..</p>
 <!--bitti-->
