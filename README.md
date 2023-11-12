@@ -6,7 +6,7 @@ PS:12.11 Tarihinde odevimi yüklerken hata yaptığımdan dolayı silip tekrar r
 <h2>Hakkımda:</h2>
 <!--2.başlığı oluşturdum-->
 <!--paragraf cümleme geçtim-->
-<p>Merhaba ben Busra Agirbas.Bursada yaşıyorum.Aslında fizyoterapistim fakat mesleğimi icra etmek istemediğim ve yazılıma ilgili olduğum için bu alana yöneldim.Kodluyoruz ekibine bu imkanı sağladıkları için teşekkür ediyorum.</p>
+<p>Merhaba ben Busra Agirbas.Bursada yaşıyorum.Aslında fizyoterapistim fakat mesleğimi icra etmek istemediğim ve yazılıma ilgi duydugumdan dolayı bu alana yöneldim.Kodluyoruz ekibine bu imkanı sağladıkları için teşekkür ediyorum.</p>
 <h2>Sevdiğim Diziler</h2>
 <h3>Leyla ile Mecnun</h3>
 <!--yine paragrafta açıklamamı yaptım-->
